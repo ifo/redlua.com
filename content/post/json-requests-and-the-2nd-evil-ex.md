@@ -15,14 +15,14 @@ Here's how.
 When you have some free time after browsing various places on the internet, you might want to get yourself some JSON.
 To start this interaction, you would ask a server for some JSON using HTTP.
 
-![Mr. Lee, you're needed back on set](/images/json-requests-and-the-2nd-evil-ex/needed-back-on-set.jpg)
+![Mr. Lee, you're needed back on set](https://f001.backblaze.com/file/redlua/json-requests-and-the-2nd-evil-ex/needed-back-on-set.jpg)
 
 #### Next, the response
 
 Once the server recieves your request, it sends you JSON, as a normal HTTP response.
 The only difference is that the headers contain type information letting you know that the content is JSON.
 
-![Mr. Lee sends the JSON](/images/json-requests-and-the-2nd-evil-ex/message-sent.jpg)
+![Mr. Lee sends the JSON](https://f001.backblaze.com/file/redlua/json-requests-and-the-2nd-evil-ex/message-sent.jpg)
 
 ### Now what?
 
@@ -43,7 +43,7 @@ Status: 200 YEAH OKAY
 
 Because this text is less useful to you than the information it contains, you need to parse it.
 
-![Goad Lucas Lee into parsing JSON](/images/json-requests-and-the-2nd-evil-ex/goad-into-parsing.jpg)
+![Goad Lucas Lee into parsing JSON](https://f001.backblaze.com/file/redlua/json-requests-and-the-2nd-evil-ex/goad-into-parsing.jpg)
 
 Depending on the language you are using, parsing can look like many different things:
 
@@ -54,7 +54,7 @@ Depending on the language you are using, parsing can look like many different th
 
 - .sp: `grind the rails` (.sp is scott pilgrim)
 
-![Lucas Lee grinding the rails](/images/json-requests-and-the-2nd-evil-ex/grinding-rails.jpg)
+![Lucas Lee grinding the rails](https://f001.backblaze.com/file/redlua/json-requests-and-the-2nd-evil-ex/grinding-rails.jpg)
 
 Either way, you end up with an object, dictionary, hash, struct, or skateboarding evil ex containing your data.
 
@@ -63,7 +63,7 @@ Either way, you end up with an object, dictionary, hash, struct, or skateboardin
 Not all blobs of text you are sent will end up being actual JSON.
 When parsing JSON fails, the results can be catastrophic.
 
-![Improperly formatted JSON parse explosion](/images/json-requests-and-the-2nd-evil-ex/parse-explosion.jpg)
+![Improperly formatted JSON parse explosion](https://f001.backblaze.com/file/redlua/json-requests-and-the-2nd-evil-ex/parse-explosion.jpg)
 
 ### Moral of the story?
 

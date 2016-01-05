@@ -20,7 +20,7 @@ I must admit I wouldn't have had the impetus to switch if there were no glaring 
 Luckily, Zoho (or Gmail, not sure which one), fixed this "problem" by not syncing my email.
 Gmail also tells you the error for why email is not being synced, and it gave me this lovely reason:
 
-!["Error in RETR command: Do you want to remain prepared against the terrorist a..."](/images/migrate-your-domain-email-from-zoho-to-fastmail/error.png)
+!["Error in RETR command: Do you want to remain prepared against the terrorist a..."](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/error.png)
 
 That got a pretty big eyebrow raise from me, and mention of terrorist's elipses is enough of ... something ... to encourage me to try a new thing.
 
@@ -41,16 +41,16 @@ You may get some duplicates, but that's better than missing emails.
 
 Go to Zoho and click on "Settings" in the top right.
 
-![Click on Settings](/images/migrate-your-domain-email-from-zoho-to-fastmail/zoho-settings.png)
+![Click on Settings](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/zoho-settings.png)
 
 Then on the left, click on "Email forwarding and POP/IMAP".
 
-![Click on "Email forwarding and POP/IMAP"](/images/migrate-your-domain-email-from-zoho-to-fastmail/email-forwarding.png)
+![Click on "Email forwarding and POP/IMAP"](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/email-forwarding.png)
 
 In the main window, under "Email Forwarding", we can add an email address.
 Click on "Add email address"
 
-![Add email address](/images/migrate-your-domain-email-from-zoho-to-fastmail/add-email-address.png)
+![Add email address](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/add-email-address.png)
 
 Adding an email address requires confirmation from your new FastMail address.
 You'll have to navigate to your new FastMail mail page.
@@ -81,7 +81,7 @@ They also have great documentation for this and the next step, located [here](ht
 
 Scroll down to the "Domain" section, and add in the bare version of your domain
 
-![example.com in the Domain section](/images/migrate-your-domain-email-from-zoho-to-fastmail/example-com.png)
+![example.com in the Domain section](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/example-com.png)
 
 You'll probably want to leave the "Subdomain?" section as a Yes.
 It allows you to use (for example) `mybank@me.example.com` as an email address, which will route to `me+mybank@example.com`.
@@ -103,7 +103,7 @@ You'll need to go to your domain records, and set the MX records to what FastMai
 
 At the time of writing, these were the domains that needed to be set:
 
-![MX Records to Set](/images/migrate-your-domain-email-from-zoho-to-fastmail/mx-records.png)
+![MX Records to Set](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/mx-records.png)
 
 But make sure to [click here to ensure you have the updated information](https://www.fastmail.com/help/receive/domains-advanced-setup.html).
 Also, the priorities that they mention (10 and 20) need to be before your MX record.
@@ -129,7 +129,7 @@ In the top left there is a button you can click to "Create New Personality"
 Go ahead and add `your-name@example.com` to both the "Display name" and "Email address" sections.
 Scroll down a bit and make the section with checkboxes look like this:
 
-![Checkboxes](/images/migrate-your-domain-email-from-zoho-to-fastmail/checkboxes.png)
+![Checkboxes](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/checkboxes.png)
 
 At the very bottom, click "Save personality", then go back to the top, look to the right, and click the "Make default Personality" button as well.
 
