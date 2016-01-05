@@ -1,6 +1,7 @@
 +++
 date = "2015-11-18T15:45:10-05:00"
 draft = false
+tags = [ "email", "fastmail", "zoho", "images", "how to" ]
 title = "Migrate your domain email from Zoho to FastMail"
 
 +++
@@ -96,6 +97,7 @@ And mentioned before, [their documentation is pretty good](https://www.fastmail.
 
 This assumes you've registered your domain somewhere and are purely using FastMail for email.
 Personally, I use [NearlyFreeSpeech.NET](https://www.nearlyfreespeech.net)
+(not an affiliate link)
 
 You'll need to go to your domain records, and set the MX records to what FastMail wants.
 
@@ -147,4 +149,4 @@ You now have your domain's email running on FastMail.
 Seriously do backup your email from Zoho (or wherever it was before).
 As mentioned before, FastMail didn't get all of the email when it attempted the transfer.
 
-Again, a link will be posted [here](#) and higher up the page when I've written about backing up emails hosted at Zoho.
+Again, a link will be posted [here](/post/how-to-backup-your-zoho-emails/) and higher up the page when I've written about backing up emails hosted at Zoho.

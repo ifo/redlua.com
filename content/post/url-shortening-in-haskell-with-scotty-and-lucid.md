@@ -1,6 +1,7 @@
 +++
 date = "2015-01-19T18:54:36-05:00"
 draft = false
+tags = [ "haskell", "url shortener", "scotty", "lucid", "guide" ]
 title = "Url shortening in Haskell with Scotty and Lucid"
 
 +++

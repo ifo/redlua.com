@@ -1,6 +1,7 @@
 +++
 date = "2015-11-28T13:33:45-05:00"
 draft = false
+tags = [ "spacemacs", "tips" ]
 title = "small list of spacemacs tips"
 
 +++
