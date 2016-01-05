@@ -1,11 +1,7 @@
 {{ partial "header.html" . }}
-		<main id="content">
-{{ $paginator := .Paginator }}
-
-    {{ range $index, $page := .Paginator.Pages }}
-        {{ .Render "li" }}
-    {{ end }}
-
-    	{{ partial "pagination.html" $paginator }}
-		</main>
+<main id="content">
+{{ range $index, $page := .Data.Pages }}
+  {{ .Render "li" }}
+{{ end }}
+</main>
 {{ partial "footer.html" . }}
