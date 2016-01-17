@@ -1,6 +1,7 @@
 +++
 date = "2015-11-20T16:42:09-05:00"
 draft = false
+tags = ["email", "fastmail", "zoho", "images", "how to"]
 title = "How to backup your Zoho emails"
 
 +++

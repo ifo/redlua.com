@@ -1,7 +1,7 @@
 +++
 date = "2015-11-18T15:45:10-05:00"
 draft = false
-tags = [ "email", "fastmail", "zoho", "images", "how to" ]
+tags = ["email", "fastmail", "zoho", "images", "how to"]
 title = "Migrate your domain email from Zoho to FastMail"
 
 +++
