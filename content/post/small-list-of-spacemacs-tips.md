@@ -1,10 +1,15 @@
 +++
 date = "2015-11-28T13:33:45-05:00"
 draft = false
-tags = [ "spacemacs", "tips" ]
-title = "small list of spacemacs tips"
+tags = ["spacemacs", "tips"]
+title = "Small list of spacemacs tips"
 
 +++
+
+**Note**: I've decided to abandoned the switch, and am working on making my vim
+config better, giving me at least some of the neat features present in spacemacs.
+
+---
 
 I've recently started making the switch from vim + tmux to spacemacs.
 Things have been very slow going, but occasionally I learn something that really
