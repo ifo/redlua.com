@@ -1,7 +1,7 @@
 +++
 date = "2016-01-17T15:06:35-05:00"
 draft = false
-tags = ["idea"]
+tags = ["ten by six"]
 title = "And then there were 10"
 
 +++
