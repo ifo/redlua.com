@@ -13,8 +13,11 @@ I'd like to introduce to you [sanic](https://github.com/ifo/sanic/), a unique id
 (https://github.com/twitter/snowflake/tree/snowflake-2010).
 
 [Url Shorteners](/post/url-shortening-in-haskell-with-scotty-and-lucid/) have
-long been an interest of mine, but my ID generation method up to this point has
-been just making random strings and checking that they don't already exist.
+[long](https://github.com/ifo/haskell-spock-lucid-url-shortener) been an
+[interest](https://github.com/ifo/clojurl) of [mine]
+(https://github.com/ifo/probablyvalidurl.com), but my ID generation method up to
+this point has been making random strings and checking that they don't already
+exist.
 
 And I must admit, making random strings is really convenient!
 The code is relatively [small and simple]
