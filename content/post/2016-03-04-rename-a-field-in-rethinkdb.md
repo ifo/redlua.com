@@ -3,6 +3,7 @@ date = "2016-03-04T14:07:54-05:00"
 draft = false
 tags = ["how to", "tips", "rethinkdb"]
 title = "Rename a field in RethinkDB"
+url = "post/rename-a-field-in-rethinkdb/"
 
 +++
 

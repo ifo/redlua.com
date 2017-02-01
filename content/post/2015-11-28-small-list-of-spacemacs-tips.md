@@ -3,6 +3,7 @@ date = "2015-11-28T13:33:45-05:00"
 draft = false
 tags = ["spacemacs", "tips"]
 title = "Small list of spacemacs tips"
+url = "post/small-list-of-spacemacs-tips/"
 
 +++
 

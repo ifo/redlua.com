@@ -3,6 +3,7 @@ date = "2016-02-29T16:08:17-05:00"
 draft = false
 tags = ["ten by six", "url shortener", "golang"]
 title = "Make lots of short urls really really fast"
+url = "post/make-lots-of-short-urls-really-really-fast/"
 
 +++
 
