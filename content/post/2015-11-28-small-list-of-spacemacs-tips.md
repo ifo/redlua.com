@@ -1,10 +1,8 @@
 +++
-date = "2015-11-28T13:33:45-05:00"
-draft = false
-tags = ["spacemacs", "tips"]
 title = "Small list of spacemacs tips"
 url = "post/small-list-of-spacemacs-tips/"
-
+date = "2015-11-28T13:33:45-05:00"
+tags = ["spacemacs", "tips"]
 +++
 
 **Note**: I've decided to abandoned the switch, and am working on making my vim

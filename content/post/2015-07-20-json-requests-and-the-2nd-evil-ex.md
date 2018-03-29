@@ -1,10 +1,8 @@
 +++
-date = "2015-07-20T18:54:36-05:00"
-draft = false
-tags = ["scott pilgrim", "bad explanation", "images"]
 title = "JSON requests and the 2nd Evil Ex"
 url = "post/json-requests-and-the-2nd-evil-ex/"
-
+date = "2015-07-20T18:54:36-05:00"
+tags = ["scott pilgrim", "bad explanation", "images"]
 +++
 
 ### How do JSON requests work?

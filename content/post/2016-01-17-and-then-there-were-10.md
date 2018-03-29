@@ -1,10 +1,8 @@
 +++
-date = "2016-01-17T15:06:35-05:00"
-draft = false
-tags = ["ten by six"]
 title = "And then there were 10"
 url = "post/and-then-there-were-10/"
-
+date = "2016-01-17T15:06:35-05:00"
+tags = ["ten by six"]
 +++
 
 Previously, I started the [100:10:1 method](http://redlua.com/post/100-10-1/)

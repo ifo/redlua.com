@@ -1,11 +1,8 @@
 +++
-draft = false
-tags = ["nginx", "let's encrypt", "how to"
-]
-date = "2017-02-01T12:53:14-05:00"
 title = "Setup Let's Encrypt with NGINX"
 url = "post/setup-lets-encrypt-with-nginx/"
-
+date = "2017-02-01T12:53:14-05:00"
+tags = ["nginx", "let's encrypt", "how to"]
 +++
 
 This is a tutorial about getting your website setup to use TLS.

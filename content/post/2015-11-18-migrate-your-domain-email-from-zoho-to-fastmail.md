@@ -1,10 +1,8 @@
 +++
-date = "2015-11-18T15:45:10-05:00"
-draft = false
-tags = ["email", "fastmail", "zoho", "images", "how to"]
 title = "Migrate your domain email from Zoho to FastMail"
 url = "post/migrate-your-domain-email-from-zoho-to-fastmail/"
-
+date = "2015-11-18T15:45:10-05:00"
+tags = ["email", "fastmail", "zoho", "images", "how to"]
 +++
 
 ##### **Update**: One referrenced post is now available. [How to backup your Zoho emails](/post/how-to-backup-your-zoho-emails/).

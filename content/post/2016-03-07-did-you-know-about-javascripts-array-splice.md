@@ -1,10 +1,8 @@
 +++
-date = "2016-03-07T14:11:51-05:00"
-draft = false
-tags = ["tips", "javascript"]
 title = "Did you know about JavaScript's Array.splice()?"
 url = "post/did-you-know-about-javascripts-array-splice/"
-
+date = "2016-03-07T14:11:51-05:00"
+tags = ["tips", "javascript"]
 +++
 
 'Cause until yesterday, I didn't.

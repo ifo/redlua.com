@@ -1,10 +1,8 @@
 +++
-date = "2015-07-27T18:54:36-05:00"
-draft = false
-tags = ["functional programming", "purescript", "haskell", "tips"]
 title = "Functional programming terms in my own words"
 url = "post/functional-programming-terms-in-my-own-words/"
-
+date = "2015-07-27T18:54:36-05:00"
+tags = ["functional programming", "purescript", "haskell", "tips"]
 +++
 
 This article is a reference (mostly for myself) that gives simple explanations for functional programming terms.

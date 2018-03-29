@@ -1,10 +1,8 @@
 +++
-date = "2016-02-08T13:14:38-05:00"
-draft = false
-tags = ["ten by six", "dota", "dota 2", "dotablaze"]
 title = "dotablaze is live"
 url = "post/dotablaze-is-live/"
-
+date = "2016-02-08T13:14:38-05:00"
+tags = ["ten by six", "dota", "dota 2", "dotablaze"]
 +++
 
 ### [ten by six](/tags/ten-by-six) update!
