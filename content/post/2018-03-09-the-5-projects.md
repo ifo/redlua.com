@@ -5,7 +5,7 @@ date = 2018-03-25T16:32:51-04:00
 tags = ["25 5"]
 +++
 
-This is a continuation of my [current 25:5 project](/post/starting-25-5), which
+This is a continuation of my [current 25:5 process](/post/starting-25-5), which
 you can follow with the [25:5 tag](/tags/25-5/).
 
 ## So the 5
