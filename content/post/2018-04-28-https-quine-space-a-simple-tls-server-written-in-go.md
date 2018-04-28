@@ -1,9 +1,8 @@
 +++
 title = "https.quine.space: A Simple TLS Server Written in Go"
 url = "post/https-quine-space-a-simple-tls-server-written-in-go/"
-date = 2018-04-15T15:14:23-04:00
+date = 2018-04-28T18:43:21-04:00
 tags = ["25 5", "how to", "golang", "tls"]
-draft = true
 +++
 
 This is the second project in my [current 25:5 process](/post/starting-25-5),
