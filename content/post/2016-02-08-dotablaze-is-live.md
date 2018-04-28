@@ -2,7 +2,7 @@
 title = "dotablaze is live"
 url = "post/dotablaze-is-live/"
 date = "2016-02-08T13:14:38-05:00"
-tags = ["ten by six", "dota", "dota 2", "dotablaze"]
+tags = ["ten by six", "dota"]
 +++
 
 ### [ten by six](/tags/ten-by-six) update!
