@@ -14,17 +14,17 @@ There's no way to easily collect all of your email from one place, but the inter
 
 Click on "Settings"
 
-![settings](https://f001.backblaze.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/zoho-settings.png)
+![settings](https://f001.backblazeb2.com/file/redlua/migrate-your-domain-email-from-zoho-to-fastmail/zoho-settings.png)
 
 Then "Import/Export"
 
-![import export](https://f001.backblaze.com/file/redlua/how-to-backup-your-zoho-emails/import-export.png)
+![import export](https://f001.backblazeb2.com/file/redlua/how-to-backup-your-zoho-emails/import-export.png)
 
 Next, you'll have to do the next step for every folder you have.
 
 Click the "Browse" button, select the first folder, then make sure the "Export all the messages" button is selected.
 
-![export](https://f001.backblaze.com/file/redlua/how-to-backup-your-zoho-emails/export.png)
+![export](https://f001.backblazeb2.com/file/redlua/how-to-backup-your-zoho-emails/export.png)
 
 When you click export, Zoho let's you know it's sent an email to that address with details on how to get the messages.
 Repeat for every folder you have.
@@ -33,6 +33,6 @@ Zoho will still send the email, and simply inform you that that folder did not c
 
 Once you get the email, it'll either contain a link to a zip file you can download, or tell you that no emails were in that folder.
 
-![zip file link](https://f001.backblaze.com/file/redlua/how-to-backup-your-zoho-emails/zip-file-link.png)
+![zip file link](https://f001.backblazeb2.com/file/redlua/how-to-backup-your-zoho-emails/zip-file-link.png)
 
 Just make sure to download them within 30 days!
