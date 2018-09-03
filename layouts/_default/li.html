@@ -7,7 +7,7 @@
       {{ .Date.Format "2 Jan 2006" }}
     </time>
     <span class="taglist">
-      {{if .Params.tags }}
+      {{ if .Params.tags }}
       &middot;
       {{ range $index, $tag := .Params.tags }}
       <a href="{{ $baseurl }}tags/{{ $tag | urlize }}/">{{ $tag }}</a>

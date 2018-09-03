@@ -1,7 +1,9 @@
 {{ partial "header.html" . }}
 <main id="content">
-{{ range $index, $page := .Data.Pages }}
+{{ range $index, $page := .Site.RegularPages }}
+  {{ if eq .Type "post" }}
   {{ .Render "li" }}
+  {{ end }}
 {{ end }}
 </main>
 {{ partial "footer.html" . }}
